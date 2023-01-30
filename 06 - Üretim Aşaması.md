@@ -1,18 +1,16 @@
-Üretim Süreci
+# Üretim Süreci
 
-* Fikir Aşaması
+* **Fikir Aşaması**
 	- Yaratıcı fikirler üretebilmek
 		- Trend oyunlar
 		- Top 100'ü araştıma ve analiz
 		- Konspet
-		- Mekanik
-
-	gibi kavramlardan oluşur.
+		- Mekanik gibi kavramlardan oluşur.
 
 	- Beyin fırtınası ve şablon oluşturma
 	- Dizayn Aşaması 
 
-* Oynanış Elementleri
+* **Oynanış Elementleri**
 	- MVP gameplay
 	- Level Tasarımı
 		- Zorluk Seviyeleri
@@ -27,5 +25,5 @@
 		- Heyecanlı
 		- Ödüzl / Ceza sistemi
 		- Denge
-* Dökümantasyon
-* Üretim
+* **Dökümantasyon**
+* **Üretim**
