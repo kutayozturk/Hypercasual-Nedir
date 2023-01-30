@@ -1,11 +1,11 @@
-Sanat Tasarımı
+# Sanat Tasarımı
 
-* UI
+* **UI**
 	- Basit ve anlaşılır
 	- Oyun içi UI
 	- Alışkanlıklar ve kolaylık
 	
-* Karakterler
+* **Karakterler**
 	- Modeller
 	- Renkler
 	- Animasyonlar
