@@ -10,3 +10,7 @@
 	- Renkler
 	- Animasyonlar
 	- Dinamikler
+	- 
+* **Animasyonlar**
+	- Basit görünebilir ama oldukça önemlidir
+	- Ne kadar ileri gidebiliriz
